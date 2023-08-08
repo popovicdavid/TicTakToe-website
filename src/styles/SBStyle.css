@@ -1,6 +1,16 @@
-
-
 .SBStyle {
     border: 2px solid black;
-    padding: 50px 50px;
-}
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .SBStyle.with-character {
+    /* Adjust if needed */
+  }
+  
+  .character {
+    font-size: 10px; /* Adjust font size to make the string fill the button */
+  }

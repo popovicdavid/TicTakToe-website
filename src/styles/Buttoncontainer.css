@@ -1,0 +1,13 @@
+/* App.css */
+.app-container {
+    display: flex;
+    flex-direction: column; /* Arrange rows vertically */
+    align-items: center; /* Center rows horizontally */
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: center; /* Center buttons horizontally */
+    margin-bottom: 10px; /* Add margin between rows */
+  }
+  
